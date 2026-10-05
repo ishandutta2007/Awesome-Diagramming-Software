@@ -2,7 +2,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-586F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-List-brightgreen.svg?style=flat-square" alt="Awesome List"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Diagramming-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Diagramming-Software?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Diagramming-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Diagramming-Software?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Diagramming-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Diagramming-Software?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Diagramming-Software?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ Below is a curated comparison of leading commercial SaaS diagramming application
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source diagramming landscape is exceptionally mature. Below are top-tier open-source GitHub repositories sorted in descending order by **GitHub Star count**.
+The open-source diagramming landscape is exceptionally mature. Below are top-tier open-source GitHub repositories sorted in descending order by **GitHub Stars_Count**.
 
-| Repository 📦 | Description 📝 | Stars 🌟 |
+| Repository 📦 | Description 📝 | GitHub_Stars 🌟 |
 | :--- | :--- | :--- |
 | **[excalidraw / excalidraw](https://github.com/excalidraw/excalidraw)** | **Virtual hand-drawn style whiteboard.** Infinite canvas, end-to-end encryption, multiplayer collaboration, dark mode, shape libraries, and self-hosting options. | [![Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) |
 | **[mermaid-js / mermaid](https://github.com/mermaid-js/mermaid)** | **JavaScript-based code-to-diagram generation.** Markdown-inspired text syntax for generating flowcharts, sequence diagrams, Gantt charts, class diagrams, and Git graphs. | [![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social&color=white)](https://github.com/mermaid-js/mermaid/stargazers) |
@@ -90,7 +90,7 @@ Contributions are welcome! Please follow these simple steps:
 
 1. **Fork** this repository.
 2. Add your tool/repository to `README.md` maintaining alphabetical/tabular formatting.
-3. Provide: Tool Name, Link, Description, Pricing/Star badge, and Free tier limit or repository link.
+3. Provide: Tool Name, Link, Description, Pricing/Stars_Badge, and Free tier limit or repository link.
 4. Open a **Pull Request** with a clear explanation of why the tool should be added.
 
 For broader lists, check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
